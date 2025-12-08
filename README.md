@@ -3,7 +3,7 @@
 I am a programmer & C++ enthusiast currently building a strong foundation in **Data Structures, Algorithms (DSA)**, and **Foundations of Computer Science**.
 
 ## 🚀 Featured Project
-### [Cpp-DSA-and-Foundations](LINK_TO_YOUR_REPO)
+### [Cpp-DSA-and-Foundations](https://github.com/TheBizarreFinger/Cpp-DSA-and-Foundations)
 A comprehensive archive of my technical journey, categorized into:
 * **Codeforces Training:** Problem-solving logic and algorithm optimization for competitive programming.
 * **CS1410 University Foundations:** Manual implementations of arrays, searching, and sorting algorithms from my degree.
