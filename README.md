@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Syed Abdullah Salman! 👋
 
-<!--
-**TheBizarreFinger/TheBizarreFinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer & C++ enthusiast currently building a strong foundation in **Data Structures, Algorithms (DSA)**, and **Foundations of Computer Science**.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+### [Cpp-DSA-and-Foundations](LINK_TO_YOUR_REPO)
+A comprehensive archive of my technical journey, categorized into:
+* **Codeforces Training:** Problem-solving logic and algorithm optimization for competitive programming.
+* **CS1410 University Foundations:** Manual implementations of arrays, searching, and sorting algorithms from my degree.
+* **Major Applications:** Integrated codes focusing on clean, professional C++ code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+* **Languages:** C++ (C++17/20 focus), Python3.11, HTML5, CSS3, SQL.
+* **Platforms:** Codeforces, University Lab Environments, Self-Focused.
+* **Focus:** Logic development, complexity analysis, real world problem solving, and academic foundations.
+
+---
