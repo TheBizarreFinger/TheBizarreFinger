@@ -15,3 +15,10 @@ A comprehensive archive of my technical journey, categorized into:
 * **Focus:** Logic development, complexity analysis, real world problem solving, and academic foundations.
 
 ---
+
+
+<!--Snake-->
+<div align="center">
+  
+  ![snake gif](https://github.com/TheBizarreFinger/TheBizarreFinger/blob/output/github-snake-dark.svg)
+</div>
