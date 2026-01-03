@@ -2,11 +2,15 @@
 
 # Hi, I'm Syed Abdullah Salman
 
-</div>
-
 I am a programmer and **C++ enthusiast** currently building a strong foundation in **Data Structures**, **Algorithms (DSA)**, and the **Foundations of Computer Science**.
 
 ---
+
+![](https://github-readme-stats.vercel.app/api?username=TheBizarreFinger&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TheBizarreFinger&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBizarreFinger&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ## Featured Project
 
