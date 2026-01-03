@@ -71,7 +71,7 @@ A comprehensive archive of my technical journey, organized into the following se
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheBizarreFinger&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<img align="left" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xneTZqZTg0Z2E0cTZwcDVqZ3MwczBpdnpoY251MHRtZTJ1Zzl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" />
+<img align="center" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xneTZqZTg0Z2E0cTZwcDVqZ3MwczBpdnpoY251MHRtZTJ1Zzl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" />
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
