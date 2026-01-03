@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Syed Abdullah Salman
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheBizarreFinger/TheBizarreFinger/master/github-header-banner.png" width="100%" title="Intro Card" alt="Intro Banner">
+</p>
 
 I am a programmer and **C++ enthusiast** currently building a strong foundation in **Data Structures**, **Algorithms (DSA)**, and the **Foundations of Computer Science**. I Love Pixel Art.
 
